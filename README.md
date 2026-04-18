@@ -8,10 +8,7 @@
 ## Hackathon Experience
 | Achievement | Hackathon | Project | Link |
 |------------|----------|--------|------|
-| Participant | JomHack Varsity Challenge 2025 | xx | xx |
-| Participant | Hack Attack 2.0 | xx | xx |
-| Participant | MarineHack 2025 | xx | xx |
-| Participant | Borneo Hackathon 2025 | xx | xx |
+| Participant | Hack Attack 2.0 | Water Quality Monitoring System for Aquaculture in Malaysia | xx |
 | Participant| IDSC 2026 | Perfusion Defect Detection | [Github Link](https://github.com/J26-1/perfusiondefectdetection.git) |
 
 ---
