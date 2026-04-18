@@ -1,11 +1,11 @@
 # Hello
 
-## 🛠️ Tech Stack
+## Tech Stack
 **Languages:** Python, JavaScript, Java
 **Frameworks:** React, Streamlit, Flask 
----
 
-## 🏆 Hackathon Experience
+
+## Hackathon Experience
 | Achievement | Hackathon | Project | Link |
 |------------|----------|--------|------|
 | Participant | JomHack Varsity Challenge 2025 | xx | xx |
