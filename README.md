@@ -12,6 +12,6 @@
 | Participant | Hack Attack 2.0 | xx | xx |
 | Participant | MarineHack 2025 | xx | xx |
 | Participant | Borneo Hackathon 2025 | xx | xx |
-| Participant| IDSC 2026 | Perfusion Defect Detection | [xx](https://github.com/J26-1/perfusiondefectdetection.git) |
+| Participant| IDSC 2026 | Perfusion Defect Detection | [Github Link](https://github.com/J26-1/perfusiondefectdetection.git) |
 
 ---
