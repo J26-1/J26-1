@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hello
 
-<!--
-**J26-1/J26-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠️ Tech Stack
+**Languages:** Python, JavaScript, Java
+**Frameworks:** React, Streamlit, Flask 
+---
 
-Here are some ideas to get you started:
+## 🏆 Hackathon Experience
+| Achievement | Hackathon | Project | Link |
+|------------|----------|--------|------|
+| Participant | JomHack Varsity Challenge 2025 | xx | xx |
+| Participant | Hack Attack 2.0 | xx | xx |
+| Participant | MarineHack 2025 | xx | xx |
+| Participant | Borneo Hackathon 2025 | xx | xx |
+| Participant| IDSC 2026 | xx | xx |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
