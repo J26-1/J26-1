@@ -12,6 +12,6 @@
 | Participant | MarineHack2025 | Smart Marine Safety & Training System | https://github.com/J26-1/vesselsim360.git |
 | Participant| IDSC 2026 | Perfusion Defect Detection | https://github.com/J26-1/perfusiondefectdetection.git |
 | Participant| UM Hackathon 2026 | Kaching AI | https://github.com/J26-1/umhackathon26.git |
-| Participant| The Gemma 4 Good Hackathon | Collective Ocean Biosecurity AI | https://github.com/J26-1/collective-ocean-biosecurity-ai-2.git |
+| Participant| The Gemma 4 Good Hackathon | Collective Ocean Biosecurity AI | https://github.com/J26-1/collective-ocean-biosecurity-ai.git |
 
 ---
